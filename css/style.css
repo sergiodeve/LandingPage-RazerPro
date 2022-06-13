@@ -290,16 +290,16 @@ img{
     
 .modelo-x{
     
-   background-image: url(/img/modelo-x.svg);
+   background-image: url(./img/modelo-x.svg);
 }
 .modelo-y{
    
-    background-image: url(/img/modelo-y.svg);
+    background-image: url(./img/modelo-y.svg);
    
 }
 .modelo-z{
     background-color: var(--negro);
-    background-image: url(/img/modelo-z.svg);
+    background-image: url(./img/modelo-z.svg);
     color: var(--blanco);
 }
 @media (min-width: 992px){
